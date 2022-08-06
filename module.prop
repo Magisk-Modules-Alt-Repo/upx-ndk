@@ -3,4 +3,5 @@ name=UPX For Android NDK
 version=v3.96
 versionCode=396
 author=JonesqPacMan™
-description= UPX (Ultimate Packer for Executables) is a free and open source executable packer supporting a number of file formats from different operating systems . This static binary support multi architectures built with the NDK & Compressed by this UPX
+description= UPX (Ultimate Packer for Executables) is a free and open source executable packer supporting a number of file formats from different operating systems . This static binary support multi architectures built with the NDK
+
